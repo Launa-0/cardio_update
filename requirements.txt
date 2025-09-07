@@ -1,0 +1,7 @@
+streamlit
+xgboost
+pandas
+scikit-learn
+shap
+google-generativeai
+
