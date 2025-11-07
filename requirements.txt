@@ -1,8 +1,7 @@
-streamlit
-xgboost
-pandas
-scikit-learn
-shap
-google-generativeai
-matplotlib
-
+xgboost>=1.7
+shap>=0.45
+pandas>=2.0
+numpy>=1.23
+matplotlib>=3.7
+streamlit>=1.34
+google-generativeai>=0.8
