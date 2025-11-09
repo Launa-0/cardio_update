@@ -10,3 +10,8 @@ https://ack.kips.or.kr/notice/article/1236
 https://aistudio.google.com/apikey?hl=ko
 
 gemini-1.5-flash 사용
+
+
+발표후기 
+
+-> XGBoost 모델의 정확도 올려라
